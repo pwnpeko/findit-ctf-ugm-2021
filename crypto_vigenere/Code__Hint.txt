@@ -1,0 +1,5 @@
+Hint: vigorous and sincere. 45 5A 43 52 59 50 54 4F.
+Code: XGQLYGMOZHIVLTKSID
+Note: Masukkan jawaban yang ditemukan ke dalam format flag CTF Find IT untuk mendapatkan flag seutuhnya.
+
+FindITCTF{THOUARTAVIGENEREEE}
